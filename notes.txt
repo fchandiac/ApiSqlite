@@ -1,0 +1,21 @@
+PENDIENTE: 
+- CREAR TABLA USUARIOS
+- CREAR TABLA PERFILES
+- CREAR TABLA SALES
+- CREAR TABLA SALESDETAILS
+
+
+npx sequelize-cli db:migrate:undo:all
+npx sequelize db:migrate
+npx sequelize-cli db:seed:all
+
+
+id: INTEGER
+sale_id: INTEGER
+customer_id: INTEGER
+amount: INTEGER
+payment_method:  STRING
+state: BOOLEAN
+paid:  INTEGER
+balance: INTEGER
+date: DATE

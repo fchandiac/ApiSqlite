@@ -1,0 +1,206 @@
+[
+	{
+		"id" : 1001,
+		"name" : "vehicular",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1002,
+		"name" : "jardin",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1003,
+		"name" : "ciclismo",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1004,
+		"name" : "mascota",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1005,
+		"name" : "herramienta manual",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1006,
+		"name" : "ruedas",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1007,
+		"name" : "hogar",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1008,
+		"name" : "accesorio herramienta",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1009,
+		"name" : "seguridad",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1010,
+		"name" : "herramienta electrica",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1011,
+		"name" : "muebleria",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1012,
+		"name" : "construccion",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1013,
+		"name" : "material accesorio",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1014,
+		"name" : "pintura",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1015,
+		"name" : "accesorio trabajo",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1016,
+		"name" : "ceramica",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1017,
+		"name" : "Herramientas",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1018,
+		"name" : "brocas",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1019,
+		"name" : "discos",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1020,
+		"name" : "gasfiteria",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1021,
+		"name" : "campo",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1022,
+		"name" : "electricidad",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1023,
+		"name" : "accesorio",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1024,
+		"name" : "herramienta a gas",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1025,
+		"name" : "combustible",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1026,
+		"name" : "adhesivos",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1027,
+		"name" : "cables",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1028,
+		"name" : "pvc sanitario",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1029,
+		"name" : "pvc hidraulico",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1030,
+		"name" : "planza",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1031,
+		"name" : "ppr",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1032,
+		"name" : "fierros",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1033,
+		"name" : "herramienta a bencina",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1034,
+		"name" : "Otros",
+		"created_at" : "2023-05-23 21:27:59",
+		"updated_at" : "2023-05-23 21:27:59"
+	}
+]

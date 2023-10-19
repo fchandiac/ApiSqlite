@@ -1,0 +1,56 @@
+[
+	{
+		"id" : 1001,
+		"user" : "admin",
+		"name" : "Administrador",
+		"pass" : "sami6",
+		"profile_id" : 1001,
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1002,
+		"user" : "user",
+		"name" : "user",
+		"pass" : "user",
+		"profile_id" : 1001,
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1003,
+		"user" : "nacho",
+		"name" : "Ignacio Rivano",
+		"pass" : "1488",
+		"profile_id" : 1001,
+		"created_at" : null,
+		"updated_at" : "2023-06-09 13:21:05"
+	},
+	{
+		"id" : 1004,
+		"user" : "barbara",
+		"name" : "Barbar Leiva",
+		"pass" : "1984",
+		"profile_id" : 1001,
+		"created_at" : null,
+		"updated_at" : "2023-06-09 09:47:25"
+	},
+	{
+		"id" : 1005,
+		"user" : "felipe",
+		"name" : "Felipe Leiva",
+		"pass" : "1234",
+		"profile_id" : 1001,
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 1006,
+		"user" : "jose",
+		"name" : "José Castillo",
+		"pass" : "1234",
+		"profile_id" : 1001,
+		"created_at" : null,
+		"updated_at" : null
+	}
+]

@@ -1,0 +1,14 @@
+You could try the package qckwinsvc. First install it globally:
+
+npm install -g qckwinsvc
+
+And then from the cmd:
+
+qckwinsvc
+prompt: Service name: [...]
+prompt: Service description: [...]
+prompt: Node script path: [/path/to/.js file]
+To uninstall:
+
+qckwinsvc --uninstall
+-...
